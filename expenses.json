@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Laptop",
+        "amount": 45000,
+        "category": "Electronics"
+    },
+    {
+        "title": "Food",
+        "amount": 250,
+        "category": "Daily"
+    }
+]
