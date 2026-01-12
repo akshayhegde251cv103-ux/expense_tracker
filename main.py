@@ -4,7 +4,7 @@ from storage import load_expenses, save_expenses
 
 FILENAME = "expenses.json"
 
-
+print("large expenses : ")
 def main():
     expenses = load_expenses(FILENAME)
 
